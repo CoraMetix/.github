@@ -21,7 +21,7 @@
 
 ## 🫀 About
 
-**CoraMetix** is a cardiovascular medical device company based in Perth, Western Australia. We combine advanced manufacturing, data infrastructure and machine intelligence to design, build and understand devices that work inside the human circulation.
+**CoraMetix** is a cardiovascular medical device company based in Perth, Western Australia. We combine advanced manufacturing, data infrastructure and machine intelligence to design, build and understand devices that work inside the cardiovascular system.
 
 This organization hosts our engineering tools, simulation workflows and internal utilities.
 
