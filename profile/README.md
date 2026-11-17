@@ -78,15 +78,6 @@ Neural models for detection, segmentation and prediction that turn images and pr
 
 <br/>
 
-## 📦 Repositories
-
-| Repository | Description |
-|:--|:--|
-| [**Silicora**](https://github.com/CoraMetix/Silicora) | Control & logging software for CoraMetix MEW printers. |
-| [**daataCora**](https://github.com/CoraMetix/daataCora) | full-stack laboratory data management and report generation system. |
-| [**Cadmus**](https://github.com/CoraMetix/cadmus) | Mathematical design compilation, assembly, technical translation and manufacturing platform. |
-| [**Scaffold-G-Code-Generator**](https://github.com/CoraMetix/Scaffold-G-Code-Generator) | GUI tool for parameterized scaffold Gcode generation and export. |
-
 <br/>
 
 <div align="center">
