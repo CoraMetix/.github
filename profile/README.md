@@ -33,8 +33,8 @@ This organization hosts our engineering tools, simulation workflows and internal
 <tr>
 <td width="50%" valign="top">
 
-### 🖨️ MEW Printer Control
-Control software for melt electrowriting: motion, temperature, pressure and high-voltage coordination for precise, repeatable fibre deposition.
+### 🖨️ Printer Control
+Control software for advanced 3D printing technology parameters for precise, repeatable fibre deposition.
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +48,7 @@ Structured storage of print parameters, experiments and results, so every scaffo
 <td width="50%" valign="top">
 
 ### 👁️ Machine Vision
-Imaging pipelines for in-process monitoring and post-print inspection of jets, fibres and scaffold geometry.
+Imaging pipelines for in-process monitoring and post-print inspection of fibres and scaffold geometry.
 
 </td>
 <td width="50%" valign="top">
